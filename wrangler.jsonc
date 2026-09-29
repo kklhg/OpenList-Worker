@@ -115,13 +115,13 @@
     // ── Cloudflare KV REST API（DB_DRIVER=cfkv 时三项需全部填写）───────────
     //
     // KV namespace ID
-    "CF_KV_UUID": "7074318062914216bf258fc905cc8ec8",
+    // "CF_KV_UUID": "",
     //
     // 账户 ID
-    "CF_ACCOUNT": "cf54ea341b29686e98a3f2a442271d7d",
+    // "CF_ACCOUNT": "",
     //
     // 具有 KV 读写权限的 API Token
-    "CF_API_KEY": "cfat_a1FveIFF4p5tVed8pAAO05lpUSVnyFBuyBhZYa5Oa2c5cbd1",
+    // "CF_API_KEY": "",
 
     // ── EdgeOne Node 云函数 KV 代理（DB_DRIVER=kv 时可选）──────────────────
     //
